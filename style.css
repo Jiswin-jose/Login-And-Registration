@@ -163,6 +163,7 @@ a {
     table {
         display: block;
         overflow-x: auto;
+        margin: 0;
     }
    
     button {
